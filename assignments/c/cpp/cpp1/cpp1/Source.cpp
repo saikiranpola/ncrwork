@@ -29,7 +29,7 @@ public:
 		hr = hr + d.hr + e.hr;
 
 		
-		}
+		}//ghidugjnf
 	void display()
 	{
 		cout << "time is  " << hr << ":" << min << ":" << sec<<endl;
