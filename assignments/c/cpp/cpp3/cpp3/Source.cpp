@@ -35,7 +35,7 @@ int main()
 	getchar();
 	return 0;
 }
- void add(comp c1, comp c2)//comments pls
+ void add(comp c1, comp c2)
 {
 	 int r1;
 	 int i1;
