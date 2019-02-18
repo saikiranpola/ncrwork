@@ -47,7 +47,6 @@ public:
 	{
 
 		cout << "Destructor invoked";
-
 	}
 
 };
