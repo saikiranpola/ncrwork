@@ -410,7 +410,7 @@ void list::traverse_backward()
 
 	{
 
-		cout << curr->data << "\n";
+		cout << curr->data << endl;
 
 		curr = curr->prev;
 
