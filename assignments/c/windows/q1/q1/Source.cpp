@@ -55,7 +55,7 @@ int main()
 	if (k == 0)
 
 		printf("it cannot be converted : %d \n", GetLastError());
-
+	//
 	else
 
 		printf("can be converted : %S \n", wc);
