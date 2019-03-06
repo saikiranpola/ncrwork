@@ -44,7 +44,7 @@ void main()
 		{
 			printf("\nThe input array contains invalid symbols please check\n");
 			system("pause");
-			return 0;
+			return 0;//
 		}
 		else
 		{
