@@ -39,7 +39,7 @@ void main(int argc, TCHAR *argv[])
 	{
 
 		cout << "There is an error with code" << GetLastError() << endl;
-
+	
 	}
 
 	CloseHandle(pi.hThread);
